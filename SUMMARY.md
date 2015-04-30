@@ -5,7 +5,7 @@
    * [Linux](installing_linux.md)
    * [Mac](installing_mac.md)
    * Windows
-* Getting online
+* [Getting online](getting_online.md)
    * Bootstrapping
    * Checking connectivity
    * Custom networks
