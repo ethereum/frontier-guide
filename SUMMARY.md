@@ -4,7 +4,7 @@
 * Introduction
 * Getting a client
    * [Linux](installing_linux.md)
-   * Mac
+   * [Mac](installing_mac.md)
    * Windows
 * Getting online
    * Bootstrapping
