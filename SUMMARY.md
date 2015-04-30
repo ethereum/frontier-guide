@@ -1,7 +1,6 @@
 # Summary
 
-* [introduction](README.md)
-* Introduction
+* [Introduction](README.md)
 * Getting a client
    * [Linux](installing_linux.md)
    * [Mac](installing_mac.md)
