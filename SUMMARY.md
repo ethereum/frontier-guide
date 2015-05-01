@@ -8,7 +8,7 @@
 * [Getting online](getting_online.md)
    * [Bootstrapping](bootstrapping.md)
    * [Checking connectivity](checking_connectivity.md)
-   * Custom networks
+   * [Custom networks](custom_networks.md)
 * [Managing accounts](managing_accounts.md)
    * Creating accounts
    * Checking balances
