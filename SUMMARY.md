@@ -17,7 +17,7 @@
    * [How to mine](how_to_mine.md)
    * Etherbase
    * Configuration
-* Shared state machine
+* EVM
    * Opcodes and costs
    * Generating EVM bytecode
    * [Intro to Solidity](intro_to_solidity.md)
