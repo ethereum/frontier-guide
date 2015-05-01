@@ -9,7 +9,7 @@
    * Bootstrapping
    * Checking connectivity
    * Custom networks
-* Managing accounts
+* [Managing accounts](managing_accounts.md)
    * Creating accounts
    * Checking balances
    * Sending ether
