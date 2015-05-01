@@ -13,7 +13,7 @@
    * Creating accounts
    * Checking balances
    * Sending ether
-* Mining
+* [Mining](mining.md)
    * Why mine?
    * Etherbase
    * Configuration
