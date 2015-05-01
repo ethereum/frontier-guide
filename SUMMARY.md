@@ -4,7 +4,7 @@
 * [Getting a client](getting_a_client.md)
    * [Linux](installing_linux.md)
    * [Mac](installing_mac.md)
-   * Windows
+   * [Windows](installing_windows.md)
 * [Getting online](getting_online.md)
    * Bootstrapping
    * Checking connectivity
