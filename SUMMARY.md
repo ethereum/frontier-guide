@@ -6,7 +6,7 @@
    * [Mac](installing_mac.md)
    * [Windows](installing_windows.md)
 * [Getting online](getting_online.md)
-   * Bootstrapping
+   * [Bootstrapping](bootstrapping.md)
    * [Checking connectivity](checking_connectivity.md)
    * Custom networks
 * [Managing accounts](managing_accounts.md)
