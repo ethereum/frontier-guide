@@ -9,6 +9,7 @@
    * [Bootstrapping](bootstrapping.md)
    * [Checking connectivity](checking_connectivity.md)
    * [Custom networks](custom_networks.md)
+   * Setting up a cluster
 * [Managing accounts](managing_accounts.md)
    * Creating accounts
    * Checking balances
