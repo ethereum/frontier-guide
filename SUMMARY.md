@@ -13,7 +13,7 @@
 * [Managing accounts](managing_accounts.md)
    * Creating accounts
    * [Checking balances](checking_account_balances.md)
-   * Sending ether
+   * [Sending ether](sending_ether.md)
 * [Mining](mining.md)
    * [How to mine](how_to_mine.md)
    * Configuration
