@@ -23,7 +23,7 @@
    * [Intro to Solidity](intro_to_solidity.md)
    * [Interop with ABI](interop_with_abi.md)
 * Contract tutorials
-   * Greeter
+   * [Greeter](contract_greeter.md)
    * NameReg
    * Coin contract
    * Crowdfunder
