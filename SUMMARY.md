@@ -14,7 +14,7 @@
    * Checking balances
    * Sending ether
 * [Mining](mining.md)
-   * How to mine
+   * [How to mine](how_to_mine.md)
    * Etherbase
    * Configuration
 * Shared state machine
