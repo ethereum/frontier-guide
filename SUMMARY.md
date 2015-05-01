@@ -21,7 +21,7 @@
    * Opcodes and costs
    * Generating EVM bytecode
    * [Intro to Solidity](intro_to_solidity.md)
-   * Interop with ABI
+   * [Interop with ABI](interop_with_abi.md)
 * Contract tutorials
    * Greeter
    * NameReg
