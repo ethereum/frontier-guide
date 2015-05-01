@@ -20,7 +20,7 @@
 * Shared state machine
    * Opcodes and costs
    * Generating EVM bytecode
-   * Intro to Solidity
+   * [Intro to Solidity](intro_to_solidity.md)
    * Interop with ABI
 * Contract tutorials
    * Greeter
