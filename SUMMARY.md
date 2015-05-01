@@ -12,7 +12,7 @@
    * [Setting up a cluster](setting_up_a_cluster.md)
 * [Managing accounts](managing_accounts.md)
    * Creating accounts
-   * Checking balances
+   * [Checking balances](checking_account_balances.md)
    * Sending ether
 * [Mining](mining.md)
    * [How to mine](how_to_mine.md)
