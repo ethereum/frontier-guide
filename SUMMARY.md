@@ -15,7 +15,6 @@
    * Sending ether
 * [Mining](mining.md)
    * [How to mine](how_to_mine.md)
-   * Etherbase
    * Configuration
 * Ethereum Virtual Machine
    * Opcodes, costs, and gas
