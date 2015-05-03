@@ -16,11 +16,11 @@
    * [Sending ether](sending_ether.md)
 * [Mining](mining.md)
    * [How to mine](how_to_mine.md)
-   * Configuration
+   * GPU mining
 * Ethereum Virtual Machine
    * Opcodes, costs, and gas
-   * [Generating EVM bytecode](generating_evm_bytecode.md)
    * [Intro to Solidity](intro_to_solidity.md)
+   * [Generating EVM bytecode](generating_evm_bytecode.md)
    * [Interop with ABI](interop_with_abi.md)
 * Contract tutorials
    * [Greeter](contract_greeter.md)
