@@ -17,7 +17,7 @@
 * [Mining](mining.md)
    * [How to mine](how_to_mine.md)
    * GPU mining
-* Ethereum Virtual Machine
+* [Ethereum Virtual Machine](ethereum_virtual_machine.md)
    * Opcodes, costs, and gas
    * [Intro to Solidity](intro_to_solidity.md)
    * [Generating EVM bytecode](generating_evm_bytecode.md)
