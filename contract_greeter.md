@@ -36,28 +36,28 @@ You might be asked for your password. You are choosing from which account will p
 
 This will return the code of your contract. If it returns “0x”, it means that your transaction has not been picked up yet. Wait a little bit more. If it takes more than five minutes for your transaction to be mined, your gas price might have been too low, or maybe you are not connected to the network.
 
-After your code has been accepted, eth.getCode(codeAddress) will return a long string of numbers. If that’s the case, congratulations, your little Greeter is live! If the contract is created again (by performing another eth.sendTransaction), it will be published to a new address. To cleanup old contracts, the SUICIDE opcode can be called.
+After your code has been accepted, `eth.getCode(codeAddress)` will return a long string of numbers. If that’s the case, congratulations, your little Greeter is live! If the contract is created again (by performing another eth.sendTransaction), it will be published to a new address. To cleanup old contracts, the SUICIDE opcode can be called.
 
 Now that your contract is live on the network, anyone can interact with it by instantiating a local copy. But in order to do that, your computer needs to know how to interact with it, which is what the Application Binary Interface (ABI) is for. Go back to the compiler page (if you don’t have the code, just go back to the beginning of the section just to regenerate it, you won’t need to upload the greeter again). Copy the code that says "interface" and store it in a variable on the console:
 
-`var greeterABI =  [{ YOURABIHERE  }];`
+`> var greeterABI =  [{ YOURABIHERE  }];`
 
 Notice the code isn't enclosed by quotes, it's because it's not a string, but an object. It will look probably like this:
 
 ```
-var greeterABI = [{ "constant": false, "inputs": [{ "name" : "input", "type": "bytes32" }], "name": "greet", "outputs" : [{ "name": "", "type": "bytes32" }], "type": "function" }]
+> var greeterABI = [{ "constant": false, "inputs": [{ "name" : "input", "type": "bytes32" }], "name": "greet", "outputs" : [{ "name": "", "type": "bytes32" }], "type": "function" }]
 ```
 
 Now type the following commands:
 
 ```
-greeterContract = eth.contract(greeterABI)
-greeterInstance = new greeterContract(greeterAddress)
+> greeterContract = eth.contract(greeterABI)
+> greeterInstance = new greeterContract(greeterAddress)
 ```
 
 Your instance is ready. In order to call it, just type the following command in your terminal:
 
-`greeterInstance.greet.call("");`
+`> greeterInstance.greet.call("");`
 
 If your greeter returned "Hello World" then congratulations, you just created your first digital conversationalist bot!  Try again with: 
 
