@@ -24,7 +24,7 @@
    * [Interop with ABI](interop_with_abi.md)
 * [Contract tutorials](contract_tutorials.md)
    * [Greeter](contract_greeter.md)
-   * NameReg
+   * [NameReg](contract_namereg.md)
    * Coin contract
    * Crowdfunder
    * Democracy DAO
