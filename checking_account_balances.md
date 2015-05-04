@@ -1,5 +1,19 @@
 # Checking balances
 
+### Listing your current accounts
+
+From the command line, call the CLI with:
+```
+geth account list
+```
+
+when using the console:
+```
+> eth.accounts
+```
+
+### Checking account balances
+
 To check your the etherbase account balance:
 ```
 > web3.fromWei(eth.getBalance(eth.coinbase), "ether")
