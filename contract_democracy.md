@@ -1,2 +1,1 @@
-# Democracy DAO
-
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Democracy-Contract-Tutorial.md" %}
