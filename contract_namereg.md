@@ -1,2 +1,1 @@
-# NameReg
-
+{% include "git+https://github.com/ethereum/wiki.wiki.git/Interacting-with-NameReg.md" %}
