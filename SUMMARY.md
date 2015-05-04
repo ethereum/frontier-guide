@@ -18,7 +18,7 @@
    * [How to mine](how_to_mine.md)
    * GPU mining
 * [Ethereum Virtual Machine](ethereum_virtual_machine.md)
-   * Opcodes, costs, and gas
+   * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
    * [Intro to Solidity](intro_to_solidity.md)
    * [Generating EVM bytecode](generating_evm_bytecode.md)
    * [Interop with ABI](interop_with_abi.md)
