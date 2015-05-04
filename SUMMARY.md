@@ -11,7 +11,7 @@
    * [Custom networks](custom_networks.md)
    * [Setting up a cluster](setting_up_a_cluster.md)
 * [Managing accounts](managing_accounts.md)
-   * Creating accounts
+   * [Creating accounts](creating_accounts.md)
    * [Checking balances](checking_account_balances.md)
    * [Sending ether](sending_ether.md)
 * [Mining](mining.md)
