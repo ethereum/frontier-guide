@@ -6,7 +6,6 @@
    * [Mac](installing_mac.md)
    * [Windows](installing_windows.md)
 * [Getting online](getting_online.md)
-   * [Custom networks](custom_networks.md)
    * [Setting up a cluster](setting_up_a_cluster.md)
 * [Managing accounts](managing_accounts.md)
    * [Creating accounts](creating_accounts.md)
