@@ -25,7 +25,7 @@
 * [Contract tutorials](contract_tutorials.md)
    * [Greeter](contract_greeter.md)
    * [NameReg](contract_namereg.md)
-   * Coin contract
+   * [Coin contract](contract_coin.md)
    * Crowdfunder
    * Democracy DAO
 
