@@ -1,2 +1,1 @@
-# Coin contract
-
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Coin-Contract-Tutorial.md" %}
