@@ -22,7 +22,7 @@
    * [Intro to Solidity](intro_to_solidity.md)
    * [Generating EVM bytecode](generating_evm_bytecode.md)
    * [Interop with ABI](interop_with_abi.md)
-* Contract tutorials
+* [Contract tutorials](contract_tutorials.md)
    * [Greeter](contract_greeter.md)
    * NameReg
    * Coin contract
