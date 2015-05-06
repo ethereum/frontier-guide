@@ -6,6 +6,7 @@
    * [Mac](installing_mac.md)
    * [Windows](installing_windows.md)
    * [Docker](using_docker.md)
+   * Platforms
 * [Getting online](getting_online.md)
    * [Setting up a cluster](setting_up_a_cluster.md)
 * [Managing accounts](managing_accounts.md)
