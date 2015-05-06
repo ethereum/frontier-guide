@@ -2,11 +2,14 @@
 
 * [Introduction](README.md)
 * [Getting a client](getting_a_client.md)
-   * [Linux](installing_linux.md)
-   * [Mac](installing_mac.md)
-   * [Windows](installing_windows.md)
-   * [Docker](using_docker.md)
    * Platforms
+      * [Linux](installing_linux.md)
+      * [Mac](installing_mac.md)
+      * [Windows](installing_windows.md)
+      * [Docker](using_docker.md)
+      * ARM
+   * Backup & restore
+   * Import/Export
 * [Getting online](getting_online.md)
    * [Setting up a cluster](setting_up_a_cluster.md)
 * [Managing accounts](managing_accounts.md)
