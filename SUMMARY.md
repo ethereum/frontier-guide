@@ -24,8 +24,8 @@
   * Using JavaScript
      * [Interop with ABI](interop_with_abi.md)
   * [Using Solidity](intro_to_solidity.md)
+     * [Compilers](generating_evm_bytecode.md)
   * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
-  * [Generating EVM bytecode](generating_evm_bytecode.md)
 * [Contract tutorials](contract_tutorials.md)
    * [Greeter](contract_greeter.md)
    * [NameReg](contract_namereg.md)
