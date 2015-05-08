@@ -6,7 +6,7 @@ _TODO_
 
 ## Arch
 
-_TODO_
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-Arch.md" %}
 
 ## Debian/Ubuntu
 
