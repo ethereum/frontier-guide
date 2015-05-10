@@ -1,1 +1,4 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Crowdfunder-Contract-Tutorial.md" %}
+{% sections "crowdfunder", "" %}
+{% endsections %}
+
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" %}

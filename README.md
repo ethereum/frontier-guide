@@ -1,6 +1,6 @@
 # Ethereum Frontier Guide
 
-### Welcome to the Frontier!
+## Welcome to the Frontier!
 
 The Frontier is the first live release of the Ethereum network. As such you are entering uncharted territory and you are invited to test the grounds and explore. There is a lot of danger, there may still be undiscovered traps, there may be ravaging bands of pirates waiting to attack you, but there also is vast room for opportunities.
 

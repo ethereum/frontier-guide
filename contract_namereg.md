@@ -1,1 +1,4 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Interacting-with-NameReg.md" %}
+{% sections "namereg", "" %}
+{% endsections %}
+
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" %}

@@ -1,4 +1,4 @@
 {
-    "plugins": ["sections@0.0.1"],
+    "plugins": ["sections@0.0.5"],
     "gitbook": ">=2.0.0"
 }

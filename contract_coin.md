@@ -1,1 +1,4 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Coin-Contract-Tutorial.md" %}
+{% sections "coin", "" %}
+{% endsections %}
+
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" %}
