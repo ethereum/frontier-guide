@@ -1,1 +1,4 @@
+{% sections "cli-client", "" %}
+{% endsections %}
+
 {% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Command-Line-Options.md" %}
