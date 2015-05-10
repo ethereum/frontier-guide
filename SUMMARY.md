@@ -30,7 +30,7 @@
    * [Command line interface and options](cli.md)
    * [JSON RPC API](rpc.md)
    * [JavaScript Console](jsre.md)
-* [Contracts and transactions](contracts_and_transactions.md)
+* Contracts and transactions
    * [Account types and transactions](account_types.md)
    * [Ether transfer](ether_transfer.md)
    * [Writing a contract](writing_contract.md)
@@ -41,16 +41,17 @@
    * [Contract info (metadata)](contract_info.md)
    * [NatSpec](natspec.md)
    * [Contract tutorials](contract_tutorials.md)
-     * [Greeter](contract_greeter.md)
-     * [NameReg](contract_namereg.md)
-     * [Coin contract](contract_coin.md)
-     * [Crowdfunder](contract_crowdfunder.md)
-     * [Democracy DAO](contract_democracy.md)
-* [Technical specification] 
-   * [Ethereum specification](eth_spec.md) 
+       * [Greeter](contract_greeter.md)
+       * [NameReg](contract_namereg.md)
+       * [Coin contract](contract_coin.md)
+       * [Crowdfunder](contract_crowdfunder.md)
+       * [Democracy DAO](contract_democracy.md)
+* [Technical specification]
+   * [Ethereum specification](eth_spec.md)
    * [ABI: Application Binary Interface](abi.md)
    * [Solidity](solidity.md)
    * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
    * [JSON RPC API](rpc_api.md)
    * [Web3 Javascript Dapp API](web3js_api.md)
    * [Admin JS API for geth console](jsre_admin_api.md)
+
