@@ -16,8 +16,8 @@
        * ARM
    * [Backup & restore](backup_restore.md)
    * [Connecting to the network](connecting.md)
-   * [Setting up a cluster](cluster.md)
    * [Monitoring your nodes](netstats.md)
+   * [Setting up a cluster](cluster.md)
 * [Managing accounts](managing_accounts.md)
    * [Creating accounts](creating_accounts.md)
    * [Listing accounts and checking balances](listing_accounts.md)
