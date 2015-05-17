@@ -1,1 +1,1 @@
-{% include https://github.com/ethereum/wiki/wiki/Ethereum-Wire-Protocol %}
+{% include "git+https://github.com/ethereum/wiki/wiki/Ethereum-Wire-Protocol" %}

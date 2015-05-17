@@ -1,1 +1,1 @@
-{% include https://github.com/ethereum/go-ethereum.wiki.git/Ethereum-Specification.md %}
+{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Ethereum-Specification.md" %}
