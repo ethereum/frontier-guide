@@ -20,6 +20,7 @@
    * [Setting up a cluster](cluster.md)
 * [Managing accounts](managing_accounts.md)
    * [Creating accounts](creating_accounts.md)
+   * [Importing your presale wallet](wallet.md)
    * [Listing accounts and checking balances](listing_accounts.md)
    * [Sending ether](sending_ether.md)
 * [Mining](mining.md)
