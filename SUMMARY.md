@@ -49,7 +49,7 @@
        * [Coin contract](contract_coin.md)
        * [Crowdfunder](contract_crowdfunder.md)
        * [Democracy DAO](contract_democracy.md)
-       * [Dapps and their interactions][dapps.md]
+       * [Dapps and their interactions](dapps.md)
 * [Technical specification]
    * [Ethereum specification](eth_spec.md)
    * [DevP2P protocol spec](devp2p.md)
