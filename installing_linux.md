@@ -8,7 +8,3 @@
 
 {% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-Arch.md" %}
 
-## Red Hat
-
-_TODO_
-
