@@ -34,7 +34,6 @@
    * [JSON RPC API](rpc.md)
    * [JavaScript Console](jsre.md)
 * [Contracts and transactions](contracts_and_transactions_intro.md)
-   * [Dapps and contracts: how does ethereum work](dapps.md)
    * [Account types and transactions](account_types.md)
    * [Ether transfer](ether_transfer.md)
    * [Writing a contract](writing_contract.md)
@@ -60,6 +59,6 @@
    * [Solidity](solidity.md)
    * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
    * [JSON RPC API](rpc_api.md)
-   * [Web3 Javascript Dapp API](web3js_api.md)
+   * [Web3 Javascript Ðapp API](web3js_api.md)
    * [Admin JS API for geth console](jsre_admin_api.md)
 
