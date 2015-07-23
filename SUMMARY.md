@@ -15,7 +15,7 @@
        * [Mac](installing_mac.md)
        * [Windows](installing_windows.md)
        * [Docker](using_docker.md)
-       * ARM
+       * [ARM](installing_arm.md)
    * [Backup & restore](backup_restore.md)
    * [Connecting to the network](connecting.md)
    * [Monitoring your nodes](netstats.md)
