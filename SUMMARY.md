@@ -45,6 +45,7 @@
    * [NatSpec](natspec.md)
    * [Testing contracts and transactions](testing_contracts_and_transactions.md)
    * [Registrar services](registrar_services.md)
+   * [Example script](example_script.md)
    * [Contract tutorials](contract_tutorials.md)
        * [Greeter](contract_greeter.md)
        * [Registrars](contract_namereg.md)
