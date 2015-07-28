@@ -32,7 +32,7 @@
 * [Interfaces](interfaces.md)
    * [Command line interface and options](cli.md)
    * [JSON RPC API](rpc.md)
-   * [Web3 JavaScript Ðapp API](web3.md)
+   * [JavaScript API for Ðapps](web3.md)
    * [JavaScript Console](jsre.md)
 * [Contracts and transactions](contracts_and_transactions_intro.md)
    * [Account types and transactions](account_types.md)
