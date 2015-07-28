@@ -32,6 +32,7 @@
 * [Interfaces](interfaces.md)
    * [Command line interface and options](cli.md)
    * [JSON RPC API](rpc.md)
+   * [Web3 JavaScript Ðapp API](web3.md)
    * [JavaScript Console](jsre.md)
 * [Contracts and transactions](contracts_and_transactions_intro.md)
    * [Account types and transactions](account_types.md)
@@ -59,7 +60,3 @@
    * [ABI: Application Binary Interface](abi.md)
    * [Solidity](solidity.md)
    * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
-   * [JSON RPC API](rpc_api.md)
-   * [Web3 Javascript Ðapp API](web3js_api.md)
-   * [Admin JS API for geth console](jsre_admin_api.md)
-
